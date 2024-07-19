@@ -7,7 +7,7 @@ This is a Restaurant html template made by Kyaw Zin Htet
 #---------- TOP BAR ----------#
 
 <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
-Restaurant St, Delicious City, London 9578, UK
+49/4 Condo Pattarapa Building 1 Moo 7, Soi One Bang Bo
 
 <ion-icon name="time-outline" aria-hidden="true"></ion-icon>
 Daily : 8.00 am to 10.00 pm
@@ -43,7 +43,7 @@ Open: 9.30 am - 2.30pm
 booking@yumgoon.com
 
 Booking Request
-+88-123-123456
++66-969-198267
 
 Find A Table
 
@@ -135,8 +135,8 @@ Lobster Tortellini
 
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since the when an unknown printer took a galley of type.
 
-$40.00
-$20.00
+฿40.00
+฿20.00
 
 View All Menu
 
@@ -153,21 +153,21 @@ alt = Greek Salad
 Greek Salad
 
 Seasonal
-$25.50
+฿25.50
 Tomatoes, green bell pepper, sliced cucumber onion, olives, and feta cheese.
 
 2.
 alt = Lasagne
 Lasagne
 
-$40.00
+฿40.00
 Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
 
 3.
 alt = Butternut Pumpkin
 Butternut Pumpkin
 
-$10.00
+฿10.00
 Typesetting industry lorem Lorem Ipsum is simply dummy text of the priand.
 
 4.
@@ -175,24 +175,24 @@ alt = Tokusen Wagyu
 Tokusen Wagyu
 
 New
-$39.00
+฿39.00
 Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices.
 
 5.
 alt = Olivas Rellenas
 Olivas Rellenas
 
-$25.00
+฿25.00
 Avocados with crab meat, red onion, crab salad stuffed red bell pepper and green bell pepper.
 
 6.
 alt = Opu Fish
 Opu Fish
 
-$49.00
+฿49.00
 Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
 
-During winter daily from 7:00 pm to 9:00 pm
+All Year daily from 4:00 pm to 10:00 pm
 
 View All Menu
 
@@ -213,7 +213,7 @@ Sam Jhonson
 Online Reservation
 
 Booking request
-+88-123-123456
++66-969-198267
 or fill out the order form
 
 placeholder = Your Name
@@ -245,7 +245,7 @@ Contact Us
 
 Booking Request
 
-+88-123-123456
++66-969-198267
 
 Location
 
@@ -291,14 +291,14 @@ Upcoming Event
 
 alt = Flavour so good you’ll try to eat with your eyes.
 
-15/09/2024
+21/08/2024
 Food, Flavour
 Flavour so good you’ll try to eat with your eyes.
 
-08/09/2024
+01/11/2024
 Healthy Food
 
-03/09/2024
+12/11/2024
 Recipie
 
 View Our Blog
@@ -309,11 +309,11 @@ View Our Blog
 
 alt = YUMGOON home
 
-Restaurant St, Delicious City, London 9578, UK
+49/4 Condo Pattarapa Building 1 Moo 7, Soi One Bang Bo
 
 booking@yumgoon.com
 
-Booking Request : +88-123-123456
+Booking Request : +66-969-198267
 
 Open : 09:00 am - 01:00 pm
 
@@ -365,42 +365,42 @@ Best Special Menu
 alt = Greek Salad
 Greek Salad
 Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
+฿39.00
 
 alt = Tokusen Wagyu
 Tokusen Wagyu
 Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
+฿45.00
 
 alt = Butternut Pumpkin
 Butternut Pumpkin
 Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
+฿15.00
 
 alt = Opu Fish
 Opu Fish
 Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
+฿12.00
 
 alt = Greek Salad
 Greek Salad
 Avocados with crab meat, red onion, crab salad red bell pepper...
-$39.00
+฿39.00
 
 alt = Tokusen Wagyu
 Tokusen Wagyu
 Tomatoes, green bell pepper, sliced cucumber onion, olives...
-$45.00
+฿45.00
 
 alt = Butternut Pumpkin
 Butternut Pumpkin
 Avocados with crab meat, red onion, crab salad stuffed bell pepper...
-$15.00
+฿15.00
 
 alt = Opu Fish
 Opu Fish
 Vegetables, cheeses, ground meats, tomato sauce, seasonings...
-$12.00
+฿12.00
 
 
 alt = feature banner
@@ -410,8 +410,8 @@ Lobster Tortellini
 
 Lorem Ipsum is simply dummy text of the printingand typesetting industry lorem Ipsum has been the industrys standard dummy text ever since.
 
-$40.00
-$20.00
+฿40.00
+฿20.00
 
 
 
@@ -438,7 +438,7 @@ Monday to Sunday
 5.30 pm - 11.30 pm
 
 Contact Us
-Restaurant St, Delicious City, London 9578, UK
+49/4 Condo Pattarapa Building 1 Moo 7, Soi One Bang Bo
 
-+88-123-123456
++66-969-198267
 reservation@restro.com
